@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-sample-for-superset-car-e",
+  "editForm": "i-i-s-sample-for-superset-car-e",
+  "external": false,
+  "caption": "Car",
+  "name": "IISSampleForSupersetCarL",
+  "className": "CarL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sample-for-superset-car",
+      "modelProjection": "CarL"
+    }
+  ]
+}

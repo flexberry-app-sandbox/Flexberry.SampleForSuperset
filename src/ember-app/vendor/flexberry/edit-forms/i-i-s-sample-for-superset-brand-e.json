@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Brand",
+  "name": "IISSampleForSupersetBrandE",
+  "className": "BrandE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sample-for-superset-brand",
+      "modelProjection": "BrandE"
+    }
+  ]
+}

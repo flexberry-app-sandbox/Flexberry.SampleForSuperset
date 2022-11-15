@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Sample for superset",
+  "applicationTitle": "Sample for superset",
+  "items": [
+    {
+      "link": null,
+      "menuName": "sample-for-superset",
+      "caption": "SampleForSuperset",
+      "title": "SampleForSuperset",
+      "children": [
+        {
+          "link": "i-i-s-sample-for-superset-brand-l",
+          "menuName": null,
+          "caption": "Brand",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-sample-for-superset-car-l",
+          "menuName": null,
+          "caption": "Car",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-sample-for-superset-producing-country-l",
+          "menuName": null,
+          "caption": "Producing country",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

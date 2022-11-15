@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Producing country",
+  "name": "IISSampleForSupersetProducingCountryE",
+  "className": "ProducingCountryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-sample-for-superset-producing-country",
+      "modelProjection": "ProducingCountryE"
+    }
+  ]
+}

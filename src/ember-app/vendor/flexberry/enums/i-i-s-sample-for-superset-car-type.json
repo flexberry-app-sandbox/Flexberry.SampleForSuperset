@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.SampleForSuperset",
+  "className": "CarType",
+  "enumObjects": {
+    "Coupe": "",
+    "Sedan": "",
+    "Crossover": ""
+  }
+}
