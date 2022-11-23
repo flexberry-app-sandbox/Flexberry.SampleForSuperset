@@ -1,5 +1,5 @@
 {
-  "ProjectId": "2add43ff-2530-47f7-afc1-1727e53d7552",
+  "ProjectId": "bf8970c1-865e-4b1c-934f-687b7422514e",
   "CrpLocalPath": null,
   "JsonMetadataPath": null,
   "OnlineCrpUrl": "https://designer.flexberry.net",
@@ -24,20 +24,20 @@
       }
     },
     "Backend": {
-      "AspNet": true,
-      "AspNetCore": false,
+      "AspNet": false,
+      "AspNetCore": true,
       "Java": false
     },
     "Docker": {
       "Dockerfile": true,
-      "DockerfileAutobuild": false,
+      "DockerfileAutobuild": true,
       "DockerBuildShellScript": false,
       "DockerSwarm": false
     },
     "Storage": {
       "Mssql": {
         "DiffSql": false,
-        "FullSql": true,
+        "FullSql": false,
         "Security": false,
         "AdminUser": false,
         "ConnectionString": null
@@ -51,7 +51,7 @@
       },
       "ClickHouse": {
         "DiffSql": false,
-        "FullSql": false,
+        "FullSql": true,
         "ConnectionString": null
       },
       "Oracle": {
@@ -66,12 +66,12 @@
       }
     },
     "Docs": {
-      "Csv": false,
-      "Wmf": false
+      "Csv": true,
+      "Wmf": true
     },
     "Metadata": {
-      "Crp": false,
-      "Json": false
+      "Crp": true,
+      "Json": true
     }
   }
 }
